@@ -1,0 +1,10 @@
+p{
+  font-family: "Arial";
+  text-transform: uppercase;
+}
+img{
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  position: absolute;
+}
