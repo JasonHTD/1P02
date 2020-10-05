@@ -1,10 +1,57 @@
-p{
-  font-family: "Arial";
-  text-transform: uppercase;
-}
-img{
-  border: 1px;
+#test{
+  border: 5px;
+  border-style: dotted;
+  color: black;
   border-color: black;
+  text-align: left;
+  font-size: 12px;
+  padding-bottom: -10%;
+background-color: green;
+}
+
+.body{
+  border:5px;
   border-style: solid;
-  position: absolute;
+  border-color: black;
+}
+
+.wrapper{
+  margin-top: 20%;
+}
+
+.green{
+  background-color: green;
+}
+.alltext{
+  background-color: white;
+  padding-top: 1%;
+  padding-left: 2px;
+  padding-bottom: 1%;
+}
+body {
+  background-color: black;
+}
+p{
+  padding: 2px;
+}
+#p1t{
+  color: red;
+}
+#p2t{
+  color: rgb(0, 153, 0);
+}
+#p3t{
+  color: purple;
+  font-size: 16px;
+  text-align: left;
+}
+#p3{
+  text-align: left;
+  font-size: 25px;
+  color: orange;
+}
+#text{
+  color: red;
+  top: -10px;
+  position: relative;
 }

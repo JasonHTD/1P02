@@ -1,10 +1,42 @@
-p{
-  font-family: "Arial";
-  text-transform: uppercase;
+#test{
+  border: 3px;
+  border-style: dotted;
+  color: black;
+  border-color: purple;
+  text-align: center;
+  font-size: 12px;
+  padding-top: 20%;
+  padding-bottom: 2%;
 }
-img{
-  border: 1px;
-  border-color: black;
+
+
+.body{
+  border:5px;
   border-style: solid;
-  position: absolute;
+  border-color: black;
+}
+
+.wrapper{
+
+}
+body {
+  background-color: white;
+}
+p{
+  padding: 2px;
+}
+#p2t{
+  color: green;
+  font-size: 8px;
+  text-align: center;
+}
+#p3{
+  text-align: left;
+  font-size: 25px;
+  color: orange;
+}
+#text{
+  color: red;
+  top: -10px;
+  position: relative;
 }
