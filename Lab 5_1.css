@@ -1,0 +1,23 @@
+.p1{
+  color: white;
+  text-align: left;
+}
+.p2{
+  color: white;
+  text-align: left;
+  margin-top: 0;
+}
+.top{
+  padding-top: 1%;
+  background-color: red;
+  text-align: center;
+  color: white;
+}
+.page{
+  padding-bottom: 39%;
+  background-color: green;
+}
+.footer{
+  padding-bottom: 4%;
+  background-color: blue;
+}
