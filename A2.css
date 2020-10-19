@@ -1,0 +1,32 @@
+.subtitle{
+  position: fixed;
+}
+.flagtext{
+  color: red;
+}
+.p1{
+  font-size: 20px;
+}
+.p2, h1{
+  font-family: monospace;
+}
+.wrapper p{
+  color: blue;
+}
+.capital{
+  text-transform: uppercase;
+}
+img{
+  padding: 10px 10px 10px 10px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  margin: 5px 5px 5px 5px;
+  position: relative;
+}
+.totop{
+  position: absolute;
+}
+.wrapper > a{
+  color: green;
+}
