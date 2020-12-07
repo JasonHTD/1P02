@@ -1,0 +1,97 @@
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	font-size: 33px;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	padding: 14px 16px;
+	text-decoration: none;
+	text-align: center;
+}
+
+li a:hover {
+	color: #FF3864;
+}
+
+.active {
+	background-color: #333;
+	color: #fff;
+}
+
+.header-one {
+	color: #4056F4;
+	font-size: 50px;
+}
+
+.header-two {
+	color: #EB5E55;
+	text-align: center;
+}
+
+.paragraph-one {
+	color: #8AE1FC;
+	font-size: 20px;
+	text-align: center;
+}
+
+.paragraph-two {
+	color: #c72418;
+	font-size: 20px;
+	text-align: center;
+}
+
+.paragraph-one:hover {
+	color: #5e1c91;
+}
+
+.paragraph-two:hover {
+	color: #5e1c91;
+}
+
+.picture-one {
+	display: block;
+	margin: 0 auto;
+}
+
+img:hover {
+	filter: grayscale(100%);
+}
+
+.top {
+	font-size: 40px;
+}
+
+button {
+	margin-left: 47.5%;
+	color: #8AE1FC;
+	background-color: #000000;
+}
+
+.clock {
+	color: #8AE1FC;
+	font-size: 20px;
+	text-align: right;
+}
+
+body {
+	padding: 25px;
+	background-color: black;
+	font-size: 25px;
+}
+/*ABOVE CLASS USED FROM https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp*/
+
+.light-mode {
+	background-color: white;
+}
+/*ABOVE CLASS USED FROM https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp*/
